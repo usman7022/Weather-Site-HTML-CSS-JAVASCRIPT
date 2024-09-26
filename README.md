@@ -25,8 +25,11 @@ Make sure you have a modern web browser installed to view the site.
 
 ## Installation
 Clone the repository:
+
 git clone https://github.com/your-username/weather-site.git
+
 - cd weather-site
 
 ## Figma-Link
+
 https://www.figma.com/design/GwRmx1FJ31evTNq6hpCpCs/Amazing-Mountain?node-id=0-1&node-type=canvas&t=mX9eR1KaCDykAO6W-0
